@@ -1,6 +1,6 @@
 # Solidity
 
-##Shared Taxi Business on Blockchain
+## Shared Taxi Business on Blockchain
 
 
 - Constructor: Called by owner of the contract and sets the manager and other initial values for state variables 
