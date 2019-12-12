@@ -13,7 +13,7 @@
 - **CarProposeToBusiness:**
   Only CarDealer can call this, sets Proposed Car values, such as CarID, price, offer valid time and approval state (to 0) 
  
-- **ApprovePurchaseCar: **
+- **ApprovePurchaseCar:**
   Participants can call this function, approves the Proposed Purchase with incrementing the approval state. Each participant can increment once. 
  
 - **PurchaseCar:**
