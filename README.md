@@ -1,6 +1,6 @@
-# Solidity
+# Shared Taxi Business on Block-chain with Solidity
 
-## Shared Taxi Business on Block-chain
+## A Smart Contract Application
 
 
 - **Constructor**: Called by owner of the contract and sets the manager and other initial values for state variables 
