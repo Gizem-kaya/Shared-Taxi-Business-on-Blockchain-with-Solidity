@@ -12,7 +12,7 @@
 
 - **Constructor**: Called by owner of the contract and sets the manager and other initial values for state variables 
  
-####- **Join function:** Public, Called by participants, Participants needs to pay the participation fee set in the contract to be a member in the taxi investment 
+- **Join function:** Public, Called by participants, Participants needs to pay the participation fee set in the contract to be a member in the taxi investment 
  
 - **SetCarDealer:**
   Only Manager can call this function, Sets the CarDealer’s address 
