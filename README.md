@@ -1,14 +1,12 @@
 # Shared Taxi Business on Block-chain with Solidity
 
-
-                             Gizem Kaya
-
+>
+>
 
 ![nyc_yellow_taxi_in_times_square_hero](https://user-images.githubusercontent.com/32525636/89931335-b3aae700-dc14-11ea-88b9-4653ccb697a0.jpg)
 
-
-
-
+>
+>
 
 ## A Smart Contract Application
 
